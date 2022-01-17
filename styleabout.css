@@ -1,0 +1,13 @@
+body {
+  min-height: 700px;
+  background-color: #bb1ce2;
+}
+.navbar {
+  background-color: #319cf3;
+}
+#about {
+  background-color: #319cf3;
+}
+#footer {
+  background-color: #bb1ce2;
+}
